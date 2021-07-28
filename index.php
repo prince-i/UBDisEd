@@ -348,10 +348,9 @@
                         <span>PROFESSOR</span>
                         </p>
                         <div class="social">
-                          <a href=""><i class="icofont-twitter"></i></a>
-                          <a href=""><i class="icofont-facebook"></i></a>
-                          <a href=""><i class="icofont-instagram"></i></a>
-                          <a href=""><i class="icofont-linkedin"></i></a>
+                          <a target="_blank" href="'.$t['facebook'].'"><i class="icofont-facebook"></i></a>
+                          <a target="_blank" href="'.$t['linkedin'].'"><i class="icofont-linkedin"></i></a>
+                          <a target="_blank" href="'.$t['email'].'"><i class="icofont-email"></i></a>
                         </div>
                       </div>
                     </div>';

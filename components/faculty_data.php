@@ -5,7 +5,7 @@
 					'image' => 'assets/img/team/ALVIN MERCADO.jpg',
 					'name' => 'MR. ALVIN MERCADO',
 					'role' => 'PROFESSOR',
-					'facebook' => '',
+					'facebook' => 'https://facebook.com',
 					'linkedin' => '',
 					'email' => '',
 				),
