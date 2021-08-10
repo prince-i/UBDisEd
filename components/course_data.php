@@ -91,6 +91,7 @@
 			"image" => "assets/img/Images/Courses/civil-exam.jpg",
 			"code" => "education"
 		),
+
 		
 	);
 

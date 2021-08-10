@@ -3,7 +3,7 @@
 
       <h1 class="logo mr-auto"><a href="#home" class="scrollto"></a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-       <a href="index.php#about" class="logo mr-auto scrollto"><img src="assets/img/Images/Asset/logo_main.png" alt="" class="img-fluid"></a>
+       <a href="index.php#about" class="logo mr-auto scrollto"><img src="assets/img/Images/Asset/logo.png" alt="" class="img-fluid"></a>
 
       <nav class="nav-menu d-none d-lg-block" >
         <ul>
@@ -14,7 +14,7 @@
           <!-- ACADEMICS -->
           <li class="drop-down"><a href="#">Academics</a>
             <ul>
-              <li><a href="#courses">Courses and Certificate Series</a></li>
+              <li><a href="#courses">Course Category</a></li>
 
               <!-- <li><a href="index.php#calendar">Calendar</a></li> -->
               <li><a href="index.php#team">Faculty</a></li>

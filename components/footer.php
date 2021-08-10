@@ -4,11 +4,11 @@
         <div class="row">
           <div class="col-lg-4 col-md-6">
             <div class="footer-info">
-              <img src="assets/img/Images/Asset/logo_main.png" alt="" class="img-fluid">
-              <h3>UB Distance Education Portal</h3>
+              <img src="assets/img/Images/Asset/logo1.png" alt="" class="img-fluid">
+         
               <p>
                 
-                Kumintang Ibaba, Hilltop, Batangas City<br><br>
+          
                 <strong>Phone:</strong> +63.43.980.00.41<br>
                 <strong>Phone:</strong> +63.43.723.14.46<br>
                 <strong>Email:</strong> admin@ub.edu.ph<br>
@@ -61,7 +61,7 @@
 
     <div class="container">
       <div class="copyright">
-        Copyright &copy; <strong><span>2021 University of Batangas, All Rights Reserved</span></strong>. &mdash; Hilltop Road, Batangas City 4200 Philippines
+        Copyright &copy;<span>2021 University of Batangas, All Rights Reserved</span></>. &mdash; Hilltop Road, Kumintang Ibaba, Batangas City 4200 Philippines
       </div>
       <div class="credits">
       </div>

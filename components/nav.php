@@ -3,18 +3,18 @@
 
       <h1 class="logo mr-auto"><a href="#home" class="scrollto"></a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-       <a href="#home" class="logo mr-auto scrollto"><img src="assets/img/Images/Asset/logo_main.png" alt="" class="img-fluid"></a>
+       <a href="#home" class="logo mr-auto scrollto"><img src="assets/img/Images/Asset/logo.png" alt="" class="img-fluid"></a>
 
       <nav class="nav-menu d-none d-lg-block" >
         <ul>
           <li class="active"><a href="#home">Home</a></li>
           <!-- ABOUT -->
-          <li><a href="#about">About</a></li>
+          <li><a href="#why-us">About</a></li>
 
           <!-- ACADEMICS -->
           <li class="drop-down"><a href="#">Academics</a>
             <ul>
-              <li><a href="#courses">Courses and Certificate Series</a></li>
+              <li><a href="#courses">Course Category</a></li>
 
               <!-- <li><a href="#calendar">Calendar</a></li> -->
               <li><a href="#team">Faculty</a></li>
@@ -25,8 +25,9 @@
           <li class="drop-down"><a href="#">Admission</a>
             <ul>
               <li><a target="_blank" href="https://enrollment.ub.edu.ph/admission/form.php?q=new">Application Procedure</a></li>
+  <li><a target="_blank" href="https://ubsd.ub.edu.ph/ubopbc/index.php">Payment Portal</a></li>
               <li><a target="_blank" href="#">Tuition & Other Fees</a></li>
-              <li><a target="_blank" href="https://ubsd.ub.edu.ph/ubopbc/index.php">Payment Portal</a></li>
+            
             </ul>
           </li>
 
@@ -40,7 +41,7 @@
             <a href="#">Library</a>
             <ul>
               <li><a target="_blank" href="https://sites.google.com/a/ub.edu.ph/library-department/">UB Library Resource Learning Center</a></li>
-              <li><a target="_blank" href="http://cprell.ub.edu.ph/">CPRELL</a></li>
+              <li><a target="_blank" href="http://cprell.ub.edu.ph/">Research and Publications</a></li>
             </ul>
           </li>
 

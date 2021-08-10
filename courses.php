@@ -28,17 +28,9 @@
 
 <body>
 <!-- ======= Top Bar ======= -->
-  <div id="topbar" class="d-none d-lg-flex align-items-center fixed-top " style="background-color:#2B2D2F;">
+  <div id="topbar" class="d-none d-lg-flex align-items-center fixed-top " style="background-color:#fc9403;">
     <div class="container d-flex">
-      <div class="contact-info mr-auto">
-        <i class="icofont-envelope" style="color:#e1ad01;"></i> <a href="mailto:admin@ub.edu.ph">admin@ub.edu.ph</a>
-        <i class="icofont-phone" style="color:#e1ad01;"></i> <a href="tel:+63439800041">+63.43.980.00.41</a>
-      </div>
-      <div class="social-links">
-        <a target="_blank" href="https://twitter.com/ubatangas" class="twitter"><i class="icofont-twitter"></i></a>
-        <a target="_blank" href="https://www.facebook.com/ubatangas" class="facebook"><i class="icofont-facebook"></i></a>
-        <a target="_blank" href="https://vimeo.com/ubatangas" class="vimeo"><i class="icofont-vimeo"></i></i></a>
-      </div>
+      
     </div>
   </div>
 <!-- ======= Header ======= -->
@@ -54,7 +46,7 @@
           <li><a href="index.php">Home</a></li>
           <li>Courses</li>
         </ol>
-        <h2>Courses</h2>
+        <h2>Short Term Courses</h2>
 
       </div>
     </section><!-- End Breadcrumbs -->
@@ -105,7 +97,7 @@
     </section>
 
     <!-- ======= Courses Section ======= -->
-    <section id="courses" class="services">
+    <section id="courses" class="services" style="background-color: #cccccc">
       <div class="container">
         <div class="section-title">
           <span>Course Category</span>

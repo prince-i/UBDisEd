@@ -56,19 +56,17 @@
 <body>
 
   <!-- ======= Top Bar ======= -->
-  <div id="topbar" class="d-none d-lg-flex align-items-center fixed-top " style="background-color: #2B2D2F;">
-    <div class="container d-flex">
+  <div id="topbar" class="d-none d-lg-flex align-items-center fixed-top " style="background-color: #fc9403;">
+
+  
+      <div class="container d-flex">
       <div class="contact-info mr-auto">
-        <i class="icofont-envelope" style="color:#e1ad01;"></i> <a href="mailto:admin@ub.edu.ph">admin@ub.edu.ph</a>
-        <i class="icofont-phone" style="color:#e1ad01;"></i> <a href="tel:+63439800041">+63.43.980.00.41</a>
+     
       </div>
-      <div class="social-links">
-        <a target="_blank" href="https://twitter.com/ubatangas" class="twitter"><i class="icofont-twitter"></i></a>
-        <a target="_blank" href="https://www.facebook.com/ubatangas" class="facebook"><i class="icofont-facebook"></i></a>
-        <a target="_blank" href="https://vimeo.com/ubatangas" class="vimeo"><i class="icofont-vimeo"></i></i></a>
+   
       </div>
     </div>
-  </div>
+
 
   <!-- ======= Header ======= -->
   <?php include 'components/nav.php';?>
@@ -77,7 +75,7 @@
   <!-- ======= Hero Section ======= -->
  <!--  <section id="hero" class="d-flex align-items-center">
     <div class="container position-relative" data-aos="fade-up" data-aos-delay="500">
-      <h1>University of Batangas Distance Learning Portal</h1>
+      <b><h1>University of Batangas Distance Learning Portal</h1></b>
       <h2>&infin; Where we meet infinite possibilities.</h2>
       
     </div>
@@ -88,43 +86,46 @@
    <section  id="home">
       <div id="carouselExampleControls" class="carousel slide row" data-ride="carousel">
       <div class="carousel-inner">
+          
         <div class="carousel-item active">
-          <img class="d-block w-100" src="assets/img/landing.jpg" alt="" id="car_img">
-               
+          <img class="d-block w-100 h-100" src="assets/img/UB-DE-landing.jpg" alt="" id="car_img">
         </div>
 
         <div class="carousel-item">
           <img class="d-block w-100" src="assets/img/IMG_0093.JPG" alt="" id="car_img">
         </div>
-  <div class="carousel-item">
+        
+        <div class="carousel-item">
           <img class="d-block w-100" src="assets/img/main.jpeg" alt="" id="car_img">
         </div>
-<div class="carousel-item">
+        
+        <div class="carousel-item">
           <img class="d-block w-100" src="assets/img/UB.JPG" alt="" id="car_img">
         </div>
-<div class="carousel-item">
+        
+        <div class="carousel-item">
           <img class="d-block w-100" src="assets/img/IMG_7159.JPG" alt="" id="car_img">
         </div>
-<div class="carousel-item">
+        
+        <div class="carousel-item">
           <img class="d-block w-100" src="assets/img/UB-DE-Dance.jpg" alt="" id="car_img">
         </div>
-<div class="carousel-item">
+        
+        <div class="carousel-item">
           <img class="d-block w-100" src="assets/img/UB-DE-CompLab.jpg" alt="" id="car_img">
         </div>
-<div class="carousel-item">
+        
+        <div class="carousel-item">
           <img class="d-block w-100" src="assets/img/UB-DE-Student.jpg" alt="" id="car_img">
         </div>
 
-<div class="carousel-item">
+        <div class="carousel-item">
           <img class="d-block w-100" src="assets/img/UB-DE-Chapel.jpg" alt="" id="car_img">
-
         </div>
-<div class="carousel-item">
+        
+        <div class="carousel-item">
           <img class="d-block w-100" src="assets/img/Copy of Auditoium Lobby.JPG" alt="" id="car_img">
-
         </div>
-
-
 
       <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -137,54 +138,91 @@
     </div>
     </section>
   <!-- END CAROUSEL -->
+  
+   <!-- ======= AB0UT ======= -->
+    <section id="why-us" class="why-us">
+      <div class="container">
+          <BR>
+              <BR>
+  <h3 style="color:#800000;"><b>UNIVERSITY OF BATANGAS DISTANCE EDUCATION</b></h3> 
+        <div class="row">
 
+          <div class="col-lg-4" data-aos="fade-up">
+            <div class="box">
+              <span>VISION</span>
+
+              <p>We envision the University of Batangas Distance Education as a center of excellence committed to providing a holistic student centered experience through flexibile distant learning education.</p>
+            <BR>
+            <BR>
+            <BR>
+            <BR>
+            <BR>
+            <BR>    
+            <BR>
+            <BR>
+            </div>
+          </div>
+
+          <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="150">
+            <div class="box">
+              <span>MISSION</span>
+              <p>The University of Batangas Distance Education provides equal educational opportunities to diverse students' needs through accessible, flexible distance learning.</p>
+            <BR>
+            <BR>
+            <BR>
+            <BR>
+            <BR>
+            <BR>
+            <BR>
+            <BR>
+            </div>
+          </div>
+
+          <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+            <div class="box">
+              <span>PRINCIPLES </span>
+              <!-- <h4> Ad ad velit qui</h4> -->
+              <p>The University of Batangas aims to:</p>
+              <p>A committed belief within the highest  level of a system that all students can  learn </p>
+              <p>Clear and ambitious learning goals  linked to instruction </p>
+              <p>Capacity around good instructional  practice at every level of the system </p>
+              <p>Incentives, accountability, and  knowledge management around change </p>
+              <p>Commitment on behalf of the  educational system to make itself  a learning organization in which everyone—from the highest-level with continuous learning opportunities. </p>
+            </div>
+        </div>
+    </section>
+    <!-- End ABOUT Section -->
+
+    <!-- ======= Clients Section ======= -->
   <main id="main">
 
     <!-- ======= About Section ======= -->
-    <section id="about" class="about">
+    <!-- =======  <section id="about" class="about"> ======= -->
       <div class="container">
 
         <div class="row">
           <div class="col-lg-5 order-1 order-lg-2" data-aos="fade-left">
             <img src="assets/img/Images/Asset/IMG_7142.jpg" class="img-fluid" alt="">
-            <img src="assets/img/Images/Asset/logo_main.png" class="img-fluid" alt="">
+            <img src="assets/img/Images/Asset/logo.png" class="img-fluid" alt="">
 
           </div>
           <div class="col-lg-7 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
-            <h3>About University of Batangas Distance Education</h3>
+           
             
-              <h3 style="color:#800000;">Policy Statement</h3>
-              <ul>
-              <li><i class="icofont-check-circled"></i> 
+             <h3 style="color:#800000;"> <b>Policy Statement</b></h3>
+              <li><i class=""></i> 
               University of Batangas Distance  Education recognizes the value of distance learning education in  promoting quality education accessible  and flexible to the student through  technology. It suffices the constant  demands of a global society by meeting  its standards, enabling the students to  become globally competitive. As such,  the University of Batangas Distance  Education is committed to providing  quality education to a diverse population  of students with a wide range of needs  suited to them.  
               </li>
 
-              <li><i class="icofont-check-circled"></i> 
+              <li><i class=""></i> 
               The University’s institutional  commitment and involvement in the creation of Distance Education  programs offerings are according to  CHED No.27 s.2005. With that, the  responsibilities shared by Deans,  Program Heads, and Professors resides  on them individually.
               </li>
             </ul>
-
-            <!-- PRINCIPLES -->
-             <h3 style="color:#800000;">Principles</h3>
-             <p>The University of Batangas aims to:</p>
-
-            <ul>
-              <li><i class="icofont-check-circled"></i> 
-              A committed belief within the highest  level of a system that all students can  learn 
-              </li>
-
-              <li><i class="icofont-check-circled"></i> 
-               Clear and ambitious learning goals  linked to instruction 
-              </li>
-
-              <li><i class="icofont-check-circled"></i> 
-              Capacity around good instructional  practice at every level of the system
-              </li>
-
-              <li><i class="icofont-check-circled"></i> Incentives, accountability, and  knowledge management around change</li>
-              <li><i class="icofont-check-circled"></i> Commitment on behalf of the  educational system to make itself  a learning organization in which everyone—from the highest-level with continuous learning opportunities.</li>
+<BR>
+    <BR>
+            
               
-            </ul>
+          
           </div>
         </div>
 
@@ -192,42 +230,7 @@
     </section><!-- End About Section -->
 
 
-    <!-- ======= Why Us Section ======= -->
-    <section id="why-us" class="why-us">
-      <div class="container">
-
-        <div class="row">
-
-          <div class="col-lg-4" data-aos="fade-up">
-            <div class="box">
-              <span>Vision</span>
-              <!-- <h4>Lorem Ipsum</h4> -->
-              <p>We envision the University of Batangas Distance Education as a center of excellence committed to providing a holistic student centered experience through flexibile distant learning education.</p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="150">
-            <div class="box">
-              <span>Mission</span>
-              <!-- <h4>Repellat Nihil</h4> -->
-              <p>The University of Batangas Distance Education provides equal educational opportunities to diverse students' needs through accessible, flexible distance learning.</p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
-            <div class="box">
-              <span>Objectives</span>
-              <!-- <h4> Ad ad velit qui</h4> -->
-              <p>The University of Batangas Distance Education The University of Batangas Distance Education The University of Batangas Distance Education The University of Batangas Distance Education</p>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Why Us Section -->
-
-    <!-- ======= Clients Section ======= -->
+ 
    <!--  <section id="clients" class="clients">
       <div class="container" data-aos="zoom-in">
         <div class="row d-flex align-items-center">
@@ -245,11 +248,11 @@
     </section> --><!-- End Clients Section -->
 
     <!-- ======= Courses Section ======= -->
-    <section id="courses" class="services">
+    <section id="courses" class="services" style="background-color: #cccccc">
       <div class="container">
         <div class="section-title">
           <span>Course Category</span>
-          <h2>Course Category</h2>
+       <h2 style="color:#800000;">Course Category</h2>
           <p>We provide infinite learning...</p>
         </div>
 
@@ -296,12 +299,12 @@
 
 
     <!-- ======= News Section ======= -->
-    <section id="news" class="portfolio">
+    <section id="news" class="portfolio" style="background-color: #ffffcc">
       <div class="container">
 
         <div class="section-title">
           <span>News & Features</span>
-          <h2>News & Features</h2>
+         <h2 style="color:#800000;">News and Features</h2>
           <p>Stay updated with our academic events</p>
         </div>
         <div class="row">
@@ -327,17 +330,17 @@
     </section><!-- End Portfolio Section -->
 
 
-    <!-- ======= Team Section ======= -->
-    <section id="team" class="team">
+    <!-- ======= Faculty Section ======= -->
+    <section id="team" class="team" style="background-color: #cccccc">
       <div class="container">
 
         <div class="section-title">
           <span>Faculty</span>
-          <h2>Faculty</h2>
+     <h2 style="color:#800000;">Faculty</h2>
           <p>Meet the best educators</p>
         </div>
 
-        <div class="row">
+        <div class="row" style="background-color: #cccccc">
             <?php
               require 'components/faculty_data.php';
               foreach($team as $t){
@@ -345,19 +348,20 @@
                       <div class="member">
                         <img src="'.$t['image'].'" alt="">
                         <h4>'.$t['name'].'</h4>
-                        <span>PROFESSOR</span>
+                        <span></span>
                         </p>
                         <div class="social">
-                          <a target="_blank" href="'.$t['facebook'].'"><i class="icofont-facebook"></i></a>
-                          <a target="_blank" href="'.$t['linkedin'].'"><i class="icofont-linkedin"></i></a>
-                          <a target="_blank" href="'.$t['email'].'"><i class="icofont-email"></i></a>
+                          <a href=""><i class="icofont-twitter"></i></a>
+                          <a href=""><i class="icofont-facebook"></i></a>
+                          <a href=""><i class="icofont-instagram"></i></a>
+                          <a href=""><i class="icofont-linkedin"></i></a>
                         </div>
                       </div>
                     </div>';
               }
             ?>
     </div>
-    </section><!-- End Team Section -->
+    </section><!-- End Faculty Section -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
@@ -365,7 +369,7 @@
 
         <div class="section-title">
           <span>Contact</span>
-          <h2>Contact</h2>
+       <h2 style="color:#800000;">Contact</h2>
           <p>Reach us..</p>
         </div>
 
@@ -408,20 +412,7 @@
           </div>
 
         </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-      </div>
+    </div>
     </section><!-- End Contact Section -->
 
   </main><!-- End #main -->
